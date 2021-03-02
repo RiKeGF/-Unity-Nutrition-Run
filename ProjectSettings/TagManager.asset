@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chao
+  - MoveCenarioP1
+  - MoveCenarioP2
+  - MoveCenarioP3
+  - LimiteDireita
+  - LimiteEsquerda
+  - Teto
+  - Limite
+  - DestroyNutrientes
+  - MoveCenarioP4
+  - MoveCenarioP5
+  - GorduraPequena
+  - GorduraMedia
+  - GorduraGrande
+  - Proteinas
+  - Carboidratos
+  - Lipidios
+  - Vegetais
+  - H2O
+  - Vitaminas
+  - CanvasPause
+  - Check
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
